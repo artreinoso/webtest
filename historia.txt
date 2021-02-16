@@ -1,0 +1,37 @@
+Lineas de comando Git - Github
+
+pwd - Carpeta actual
+cd - cambiar directorio
+mkdir - 
+cd /(nombre de carpeta)
+history
+touch - vacio
+cat
+rm - Remove (No tocar)
+--help
+
+/////////////////////////////////
+
+DOM, CSSOM, Render Tree y el proceso de renderizado de la Web
+DOM: Document Object Model. Es una transformación del código HTML escrito por nosotros a objetos entendibles para el navegador.
+
+CSSOM: así como el DOM para el HTML, EL CSSOM es una representación de objetos de nuestros estilos en CSS.
+
+Render Tree: es la unión entre el DOM y el CSSOM para renderizar todo el código de nuestra página web.
+
+Pasos que sigue el navegador para construir las páginas web:
+
+Procesa el HTML para construir el DOM.
+Procesa el CSS para construir el CSSOM.
+El DOM se une con el CSSOM para crear el Render Tree.
+Se aplican los estilos CSS en el Render Tree.
+Se ““pintan”” los nodos en la pantalla para que los usuarios vean el contenido de la página web.
+
+////////////////////////////////
+
+Html es un lenguaje interpretado
+
+////////////////////////////////
+
+Errores sintácticos: Son errores de escritura en el código y evitan que el programa funcione. Pueden ser errores de tipado.
+Errores lógicos: En estos la sintaxis es correcta, pero el código no hace lo que debería. El programa funciona, pero de forma incorrecta.
