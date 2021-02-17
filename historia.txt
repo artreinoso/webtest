@@ -1,4 +1,4 @@
-Lineas de comando Git - Github
+Lineas de comando Git - Github // dia 2
 
 pwd - Carpeta actual
 cd - cambiar directorio
