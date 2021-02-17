@@ -1,4 +1,7 @@
+Adelante 777 cambio actual
+
 Lineas de comando Git - Github // dia 2
+
 
 pwd - Carpeta actual
 cd - cambiar directorio
