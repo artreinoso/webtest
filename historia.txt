@@ -1,4 +1,5 @@
 Adelante 777 cambio actual
+esc + shit + zz
 
 Lineas de comando Git - Github // dia 2
 
